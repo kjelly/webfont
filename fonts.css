@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "Knack Nerd Font Mono Regular"
-    src: local("Knack Nerd Font Mono Regular"),
+    font-family: "Knack Nerd Font Mono"
+    src: local("Knack Nerd Font Mono"),
          url(fonts/KnackNerdMono.woff2) format("woff2");
 }
 
