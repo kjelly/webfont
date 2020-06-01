@@ -3,14 +3,9 @@ x-row {
   font-variant-ligatures: normal;
 }
 
-
-
 * {
-
 letter-spacing: -0.0021em;
-
 }
-
 
 @font-face {
     font-family: 'knack_nerd_font_monoregular';
