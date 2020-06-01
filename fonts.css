@@ -4,3 +4,11 @@
          url(fonts/KnackNerdMono.woff2.woff2) format("woff2");
 }
 
+@font-face {
+    font-family: 'knack_nerd_font_monoregular';
+    src: url('fonts/knack_regular_nerd_font_complete_mono-webfont.woff2') format('woff2'),
+         url('fonts/knack_regular_nerd_font_complete_mono-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
