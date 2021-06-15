@@ -1,0 +1,95 @@
+@font-face {
+  font-family: FiraCode Nerd Font;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//FiraCode/Regular/complete/Fira%20Code%20Regular%20Nerd%20Font%20Complete.ttf");
+}
+
+
+@font-face {
+  font-family: Hack Nerd Font;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf");
+}
+
+
+@font-face {
+  font-family: UbuntuMono Nerd Font;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//UbuntuMono/Regular/complete/Ubuntu%20Mono%20Nerd%20Font%20Complete.ttf");
+}
+
+
+@font-face {
+  font-family: Anonymice Nerd Font;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//AnonymousPro/complete/Anonymice%20Nerd%20Font%20Complete.ttf");
+}
+
+
+@font-face {
+  font-family: SauceCodePro Nerd Font Mono;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//SourceCodePro/Regular/complete/Sauce%20Code%20Pro%20Nerd%20Font%20Complete%20Mono.ttf");
+}
+
+
+@font-face {
+  font-family: SpaceMono Nerd Font Mono;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//SpaceMono/Regular/complete/Space%20Mono%20Nerd%20Font%20Complete%20Mono.ttf");
+}
+
+
+@font-face {
+  font-family: Hurmit Nerd Font Mono;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//Hermit/Medium/complete/Hurmit%20Medium%20Nerd%20Font%20Complete%20Mono.otf");
+}
+
+@font-face {
+  font-family: DroidSansMono Nerd Font Mono;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//DroidSansMono/complete/Droid%20Sans%20Mono%20Nerd%20Font%20Complete%20Mono.otf");
+}
+
+
+@font-face {
+  font-family: InconsolataLGC Nerd Font;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//InconsolataLGC/Regular/complete/Inconsolata%20LGC%20Nerd%20Font%20Complete.ttf");
+}
+
+
+@font-face {
+  font-family: RobotoMono Nerd Font Mono;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//RobotoMono/Regular/complete/Roboto%20Mono%20Nerd%20Font%20Complete%20Mono.ttf");
+}
+
+
+@font-face {
+  font-family: LiterationSans Nerd Font Mono;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//LiberationMono/complete/Literation%20Sans%20Nerd%20Font%20Complete%20Mono.ttf");
+}
+
+
+@font-face {
+  font-family: Iosevka Nerd Font;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//Iosevka/Regular/complete/Iosevka%20Term%20Nerd%20Font%20Complete.ttf");
+}
+
+
+@font-face {
+  font-family: AurulentSansMono Nerd Font;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//AurulentSansMono/complete/AurulentSansMono-Regular%20Nerd%20Font%20Complete.otf");
+}
+
+
+@font-face {
+  font-family: DaddyTimeMono Nerd Font;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//DaddyTimeMono/complete/DaddyTimeMono%20Nerd%20Font%20Complete.ttf");
+}
