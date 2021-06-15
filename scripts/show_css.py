@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import sys
-import wget
 import os
 from subprocess import check_output
 
@@ -22,7 +21,5 @@ def main():
     print(output)
 
 
-
 if __name__ == '__main__':
     main()
-
