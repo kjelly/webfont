@@ -149,3 +149,10 @@
   font-weight: normal;
   src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//FiraMono/Regular/complete/Fura%20Mono%20Regular%20Nerd%20Font%20Complete%20Mono.otf");
 }
+
+
+@font-face {
+  font-family: GoMono Nerd Font Mono;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//Go-Mono/Regular/complete/Go%20Mono%20Nerd%20Font%20Complete%20Mono.ttf");
+}
