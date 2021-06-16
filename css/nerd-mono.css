@@ -1,6 +1,13 @@
 @font-face {
   font-family: FiraCode Nerd Font Mono;
   font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/kjelly/webfont@latest/fonts/Knack Regular Nerd Font Complete Mono.ttf");
+}
+
+
+@font-face {
+  font-family: FiraCode Nerd Font Mono;
+  font-weight: normal;
   src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//FiraCode/Regular/complete/Fira%20Code%20Regular%20Nerd%20Font%20Complete%20Mono.ttf");
 }
 
