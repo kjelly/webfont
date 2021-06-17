@@ -156,3 +156,24 @@
   font-weight: normal;
   src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//Go-Mono/Regular/complete/Go%20Mono%20Nerd%20Font%20Complete%20Mono.ttf");
 }
+
+
+@font-face {
+  font-family: Iosevka Nerd Font Mono;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts/Iosevka/Regular/complete/Iosevka Term Nerd Font Complete Mono.ttf");
+}
+
+
+@font-face {
+  font-family: FuraMono Nerd Font Mono;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts/FiraMono/Regular/complete/Fura Mono Regular Nerd Font Complete Mono.otf");
+}
+
+
+@font-face {
+  font-family: VictorMono Nerd Font Mono;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts/VictorMono/Regular/complete/Victor Mono Regular Nerd Font Complete Mono.ttf");
+}
