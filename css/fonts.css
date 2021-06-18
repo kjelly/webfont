@@ -8,9 +8,7 @@ letter-spacing: -0.0021em;
 }
 
 @font-face {
-    font-family: 'knack_nerd_font_monoregular';
-    src: url('https://cdn.jsdelivr.net/gh/kjelly/webfont@master/fonts/knack_regular_nerd_font_complete_mono-webfont.woff') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/kjelly/webfont@master/fonts/knack_regular_nerd_font_complete_mono-webfont.woff2') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-family: Knack Nerd Font Mono;
+    src: url('https://cdn.jsdelivr.net/gh/kjelly/webfont@latest/fonts/knack_regular_nerd_font_complete_mono-webfont.woff') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/kjelly/webfont@latest/fonts/knack_regular_nerd_font_complete_mono-webfont.woff2') format('woff');
 }

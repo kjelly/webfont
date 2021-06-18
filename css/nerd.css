@@ -1,14 +1,12 @@
 @font-face {
   font-family: FiraCode Nerd Font;
-  font-weight: normal;
-  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//FiraCode/Regular/complete/Fira%20Code%20Regular%20Nerd%20Font%20Complete.ttf");
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@latest/patched-fonts//FiraCode/Regular/complete/Fira%20Code%20Regular%20Nerd%20Font%20Complete.ttf");
 }
 
 
 @font-face {
   font-family: Hack Nerd Font;
-  font-weight: normal;
-  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@bc4416e1/patched-fonts//Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf");
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@latest/patched-fonts//Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete.ttf");
 }
 
 
