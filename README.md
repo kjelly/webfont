@@ -3,5 +3,5 @@
 ## Nerd fonts
 
 ```
-https://cdn.jsdelivr.net/gh/kjelly/webfont@latest/css/nerd.css
+https://cdn.jsdelivr.net/gh/kjelly/webfont@latest/css/nerd-mono.css
 ```
