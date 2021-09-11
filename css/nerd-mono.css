@@ -151,3 +151,8 @@
   font-family: VictorMono Nerd Font Mono;
   src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@master/patched-fonts/VictorMono/Regular/complete/Victor Mono Regular Nerd Font Complete Mono.ttf");
 }
+
+@font-face {
+font-family: CascadiaCode Nerd Font Mono;
+src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@master/patched-fonts/CascadiaCode/Regular/complete/Caskaydia%20Cove%20Regular%20Nerd%20Font%20Complete%20Mono.otf");
+}
